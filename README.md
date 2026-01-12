@@ -17,7 +17,11 @@ Through a series of four exercises, you will gradually build a `Fixed` class tha
 5. Clean build artifacts with:
 	```
 	make clean
+ 	```
+ 	```
 	make fclean
+	```
+	```
 	make re
 	```
 
@@ -27,8 +31,9 @@ Through a series of four exercises, you will gradually build a `Fixed` class tha
 	- Default constructor
 	- Copy constructor
 	- Copy assignment operator
-	- Destructor  
-These four functions ensure proper object lifecycle management.
+	- Destructor
+
+	These four functions ensure proper object lifecycle management.
 
 2. Encapsulation
 	- Private attributes (_value, _fractionalBits).
