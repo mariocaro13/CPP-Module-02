@@ -60,13 +60,13 @@ Determining if a point lies inside a triangle (bsp function).
 	- Methods: getRawBits, setRawBits.
 	- Focus: object lifecycle and encapsulation.
 
-- ex01 – Towards a More Useful Fixed Point Class ❌
+- ex01 – Towards a More Useful Fixed Point Class ✅
 	- Add constructors from int and float.
 	- Implement toInt() and toFloat().
 	- Overload << for output.
 	- Focus: type conversion and operator overloading.
 
-- ex02 – Now We’re Talking ❌
+- ex02 – Now We’re Talking ✅
 	- Implement arithmetic and comparison operators.
 	- Add static methods min and max.
 	- Focus: operator overloading and reusable utilities.
